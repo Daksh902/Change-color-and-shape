@@ -1,0 +1,37 @@
+body {
+  font-family: sans-serif;
+}
+header {
+  padding: 20px;
+}
+div {
+  position: inline-block;
+  height: 200px;
+  width: 200px;
+  margin-left: 30%;
+  border-radius: 10rem;
+  background-position: center;
+  background-color: blue;
+}
+
+#inner {
+  position: absolute;
+  height: 120px;
+  width: 120px;
+  margin: 40px;
+  background-color: white;
+}
+
+#btn1 {
+  position: inline-block;
+  text-align: center;
+  margin-left: 40%;
+  margin-top: 5rem;
+}
+
+#btn2 {
+  position: inline-block;
+  text-align: center;
+  margin-left: 40%;
+  margin-top: 1rem;
+}
